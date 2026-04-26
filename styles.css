@@ -1,0 +1,26 @@
+body{
+    background-color: #1c191e;
+    color:#e2c9ff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    border:5px #64339c solid;
+    margin-top:5%;
+    margin-bottom:5%
+
+}
+.Intro, .Infos, .Figuren, .Lore, .End {
+    border: 10px #2f2835 solid;
+    padding: 20px;
+    margin: 20px 0;  
+    max-width: 70%;
+    width: 100%;
+}
+.Container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+    min-height: 100vh; 
+    text-align: center
+}
