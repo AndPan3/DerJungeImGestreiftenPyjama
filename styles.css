@@ -10,7 +10,7 @@ img{
     margin-bottom:5%
 
 }
-.Intro, .Infos, .Figuren, .Lore, .End, .Symbol {
+.Intro, .Infos, .Figuren, .Lore, .End, .Symbol, .Personal{
     border: 10px #2f2835 solid;
     padding: 20px;
     margin: 20px 0;  
