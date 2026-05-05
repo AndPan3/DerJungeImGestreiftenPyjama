@@ -27,7 +27,7 @@ img{
 }
 @media (max-width: 768px) {
   body{
-    line-height: normal;
+    line-height: 1.2;
     }
 }
 
