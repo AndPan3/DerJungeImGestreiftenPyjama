@@ -25,3 +25,9 @@ img{
     min-height: 100vh; 
     text-align: center
 }
+@media (max-width: 768px) {
+  body{
+    line-height: normal;
+    }
+}
+
